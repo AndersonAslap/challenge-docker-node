@@ -17,5 +17,5 @@ cd challenge-docker-node
 > Executar comando abaixo
 
 ```bash
-docker compose up -d --build
+docker compose up -d
 ```
